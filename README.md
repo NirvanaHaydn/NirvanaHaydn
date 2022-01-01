@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nirvana
 
 
-- 📚 Atualmente, estou cursando Bacharelado em Jogos Ditigais na PUC Minas;
+- 📚 Atualmente, estou cursando Bacharelado em Jogos Digitais na PUC Minas;
 - 📫 Entre em contato comigo por: facnirv@gmail.com;
 - 😄 Pronomes: ela/dela 🏳️‍🌈;
 - ⚡ Fun fact: eu amo roxo!💜
