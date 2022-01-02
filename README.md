@@ -33,7 +33,7 @@
   <img align="left" alt="Nir-Figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="left" alt="Nir-Gimp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
   <img align="center" alt="Nir-VsCode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="right" alt="Nir-Pic" height="200" style="border-radius:50px;" src="https://piskel-imgstore-b.appspot.com/img/05a56130-14e4-11ec-93dc-5f8f33268f1c.gif">
+  <img align="right" alt="Nir-Pic" height="180" style="border-radius:50px;" src="https://piskel-imgstore-b.appspot.com/img/05a56130-14e4-11ec-93dc-5f8f33268f1c.gif">
 </div>
   
   ##
