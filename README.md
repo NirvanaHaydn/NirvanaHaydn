@@ -19,8 +19,8 @@
 
 <div align="left">
   <a href="https://github.com/NirvanaHaydn">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NirvanaHaydn&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaHaydn&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NirvanaHaydn&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaHaydn&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
   
