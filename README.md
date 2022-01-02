@@ -19,19 +19,19 @@
 
 <div align="left">
   <a href="https://github.com/NirvanaHaydn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NirvanaHaydn&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaHaydn&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NirvanaHaydn&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaHaydn&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
   
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nir-CSharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt"Nir-Unity" height="60" whidth="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
-  <img align="center" alt="Nir-Illustrator" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
-  <img align="center" alt="Nir-Inkscape" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
-  <img align="center" alt="Nir-Figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Nir-Gimp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
+  <img align="left" alt="Nir-CSharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="left" alt"Nir-Unity" height="60" whidth="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
+  <img align="left" alt="Nir-Illustrator" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
+  <img align="left" alt="Nir-Inkscape" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
+  <img align="left" alt="Nir-Figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="left" alt="Nir-Gimp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg">
   <img align="center" alt="Nir-VsCode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="right" alt="Nir-Pic" height="200" style="border-radius:50px;" src="https://piskel-imgstore-b.appspot.com/img/05a56130-14e4-11ec-93dc-5f8f33268f1c.gif">
 </div>
