@@ -4,7 +4,7 @@
 
   - 🎮 Estudante de Jogos Digitais, na PUC Minas;
 
-  - 💻 A linguagem de programação com a qual eu tenho mais experiência é o C#, mas também estudo C++ e JavaScript;
+  - 💻 A linguagem de programação com a qual eu tenho mais experiência é o C#;
 
   - 🎨 Para modelagem, texturização e animação de assets 3D eu utilizo o Blender;
 
