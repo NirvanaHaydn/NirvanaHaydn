@@ -35,18 +35,7 @@
  <img align="center" alt="Nir-VsCode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
  <img align="right" alt="Nir-Pic" height="180" style="border-radius:50px"; src="https://piskel-imgstore-b.appspot.com/img/05a56130-14e4-11ec-93dc-5f8f33268f1c.gif">
 </div>
-  
- ##
  
-<div> 
-  
- 
- ![Snake animation](https://github.com/NirvanaHaydn/NirvanaHaydn/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-
- ##
  
 <div> 
   
