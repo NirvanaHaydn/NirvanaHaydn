@@ -14,12 +14,11 @@
   
   - 💜 Fun fact: eu amo roxo!
 
-</div>
+ </div>
 
 
 <div align="left">
  <a href="https://github.com/NirvanaHaydn">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NirvanaHaydn&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaHaydn&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
@@ -36,6 +35,8 @@
  <img align="right" alt="Nir-Pic" height="180" style="border-radius:50px"; src="https://piskel-imgstore-b.appspot.com/img/05a56130-14e4-11ec-93dc-5f8f33268f1c.gif">
 </div>
  
+<div> 
+  
  
 <div> 
   
@@ -47,4 +48,3 @@
  
  
 </div>
-
