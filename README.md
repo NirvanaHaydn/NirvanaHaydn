@@ -14,13 +14,14 @@
   
   - 💜 Fun fact: eu amo roxo!
 
- </div>
-
-
 <div align="left">
- <a href="https://github.com/NirvanaHaydn">
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaHaydn&layout=compact&langs_count=7&theme=jolly"/>
+  <a href="https://github.com/NirvanaHaydn">
+    <div style="text-align: center">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirvanaHaydn&layout=compact&langs_count=7&theme=jolly"/>
+    </div>
+  </a>
 </div>
+
 
   
  </div>
