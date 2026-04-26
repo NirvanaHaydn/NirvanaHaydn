@@ -13,7 +13,7 @@
 
   - 🏳️‍🌈 Pronomes: ela/dela;
   
-  - 💜 Fun fact: eu amo roxo!
+  - 💜 Eu amo roxo!
 
 
  
