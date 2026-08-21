@@ -1,13 +1,40 @@
 
-<h1 align="center">CyberpunkGirl 💜</h1>
+<h1 align="center">Nirvana de Oliveira 💜</h1>
 
 <p align="center">
-  Frontend Developer • UI Designer • Currently working on PinkPatch
+  Estudante de ADS • Desenvolvimento de Software • Criando projetos e aprendendo na prática
 </p>
 
 ## Sobre mim
 
-- 🌆 Fascinada por cyberpunk e futurismo
-- 🎮 Amo jogos
-- 🎨 Apaixonada por UI/UX
-- 🚀 Atualmente trabalhando em um dashboard gamer chamado PinkPatch
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 🚀 Interessada em desenvolvimento de software e tecnologia
+- 🎮 Desenvolvendo atualmente o PinkPatch, um projeto pessoal voltado ao universo gamer
+- 📚 Em constante aprendizado através de projetos acadêmicos e pessoais
+- 🛠️ Atualmente estudando e praticando programação, desenvolvimento web e Git/GitHub
+
+## Tecnologias e conhecimentos
+
+- C#
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Git & GitHub
+- Lógica de programação
+- Algoritmos e estruturas de dados
+- Orientação a objetos
+
+## Projetos
+
+### 💗 PinkPatch
+
+Projeto pessoal em desenvolvimento voltado ao acompanhamento e organização de experiências no Roblox.
+
+### 💰 Lucraê
+
+Projeto acadêmico de desenvolvimento de uma aplicação web para gerenciamento financeiro.
+
+## Atualmente
+
+🌱 Aprofundando meus conhecimentos em desenvolvimento de software, banco de dados e outras áreas da tecnologia.
