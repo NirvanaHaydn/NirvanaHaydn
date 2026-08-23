@@ -26,9 +26,6 @@
 
 ## Projetos
 
-### 💗 PinkPatch
-
-Projeto pessoal em desenvolvimento voltado ao acompanhamento e organização de experiências no Roblox.
 
 ### 💰 Lucraê
 
