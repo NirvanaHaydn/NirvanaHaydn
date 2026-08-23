@@ -9,7 +9,6 @@
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 🚀 Interessada em desenvolvimento de software e tecnologia
-- 🎮 Desenvolvendo atualmente o PinkPatch, um projeto pessoal voltado ao universo gamer
 - 📚 Em constante aprendizado através de projetos acadêmicos e pessoais
 - 🛠️ Atualmente estudando e praticando programação, desenvolvimento web e Git/GitHub
 
